@@ -2,10 +2,8 @@
 import cv2
 import numpy
 
-
 cn=numpy.zeros([500,600,3])
 cn.shape
-
 
 #background
 cn[:,:]=[12,10,255]
@@ -34,9 +32,7 @@ cn[450:500,50:150]=[120,0,0]
 cn[450:500,180:280]=[255,0,120]
 cn[450:500,310:410]=[0,255,120]
 
-    
-    
-
+#show image    
 cv2.imshow("hi",cn)
 cv2.waitKey()
 cv2.destroyAllWindows()
