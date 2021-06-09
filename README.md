@@ -9,3 +9,5 @@
 
 ## For making collage use collage_image.py file
 - Just replace value of pixels in background with those in images
+
+**Blog Link** https://yuktachakravarty.medium.com/creating-image-cropping-and-swapping-images-making-collage-using-python-a396c8cb5572
