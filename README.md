@@ -1,4 +1,9 @@
 # PlayingWithImagesUsingOpenCV
+***Requirements***
+- Python
+- Numpy, Install using **pip install numpy**
+- Open CV , Install using **pip install opencv-python**
+
 ## For creating image use create_image.py file
 - It will create image of house
 - You can add your own logic to make other images
